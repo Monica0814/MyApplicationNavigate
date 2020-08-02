@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "718832905840",
+    "firebase_url": "https://myveggies-e2e95.firebaseio.com",
+    "project_id": "myveggies-e2e95",
+    "storage_bucket": "myveggies-e2e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718832905840:android:be80bd78fa3d0acc3dceb5",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationnavigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718832905840-6srcl4pr31trnh9l4bjcto9ja71ndde5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNVt0RG0ha12DqcVFc2VQBiD3Ej8PEXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718832905840-6srcl4pr31trnh9l4bjcto9ja71ndde5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718832905840:android:c239d9f7b34485853dceb5",
+        "android_client_info": {
+          "package_name": "com.example.register_and_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718832905840-6srcl4pr31trnh9l4bjcto9ja71ndde5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNVt0RG0ha12DqcVFc2VQBiD3Ej8PEXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718832905840-6srcl4pr31trnh9l4bjcto9ja71ndde5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
